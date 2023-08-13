@@ -1,4 +1,15 @@
 .title {
     font-size: 60px;
     color: blue;
+    text-align: center;
+}
+
+#year {
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+.container {
+    border: 1px solid black;
+
 }
